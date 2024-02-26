@@ -1,0 +1,14 @@
+{
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.quickSuggestionsDelay": 100000000,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "editor.snippetSuggestions": "inline",
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggest.showConstants": true,
+    "editor.suggest.showFunctions": true,
+    "editor.suggest.showKeywords": true,
+    "editor.quickSuggestions": {
+        "other": "off"
+    }
+}
